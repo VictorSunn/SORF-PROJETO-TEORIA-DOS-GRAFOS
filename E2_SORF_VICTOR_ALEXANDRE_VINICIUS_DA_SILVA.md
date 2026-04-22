@@ -11,7 +11,7 @@
 | Campo | Preenchimento |
 |-------|---------------|
 | Nome do projeto | SORF |
-| Repositório GitHub | |
+| Repositório GitHub | https://github.com/VictorSunn/SORF-PROJETO-TEORIA-DOS-GRAFOS |
 | Integrante 1 | Vinícius da Silva Cardoso — 40373924 |
 | Integrante 2 | Victor Alexandre Dorea Randis — 38470071 |
 | Integrante 3 *(se houver)* | Nome — RA |
