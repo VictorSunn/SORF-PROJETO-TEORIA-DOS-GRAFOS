@@ -8,7 +8,6 @@ O sistema permite carregar um grafo via arquivo JSON, executar o algoritmo de Di
 
 # Tecnologias Utilizadas
 
-- :contentReference[oaicite:0]{index=0} 3
 - Pytest
 - JSON
 
