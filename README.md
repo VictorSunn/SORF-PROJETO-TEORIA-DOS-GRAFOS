@@ -1,5 +1,3 @@
-Claro. Pode criar/substituir o arquivo **`README.md`** na raiz do projeto com este conteúdo:
-
 ````markdown
 # SORF — Sistema de Otimização de Rotas Urbanas
 
